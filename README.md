@@ -1,5 +1,5 @@
 <p align="center">
-  <img src="banner.png" alt="Banner Evaluacion" width="800px">
+  <img src="banner2.png" alt="Banner Evaluacion" width="800px">
 </p>
 
 # 📝 Plataforma Web de Evaluación Docente - UPGOP
